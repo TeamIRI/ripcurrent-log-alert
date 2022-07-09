@@ -16,4 +16,4 @@ Python 3 must be installed.
 
 ## Execution
 
-The dependencies for this example can be installed by running `pip install requirements.txt`, and the script can be run by executing the command `python main.py`.
+The dependencies for this example can be installed by running `pip install -r requirements.txt`, and the script can be run by executing the command `python main.py`.
